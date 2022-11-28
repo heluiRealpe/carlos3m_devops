@@ -5,7 +5,7 @@
  
   <groupId>org.carlos3m.devops</groupId>
   <artifactId>myAppHRealpe</artifactId>
-  <version>1.0</version>
+  <version>1.0.0-SNAPSHOT</version>
 
   <name>myAppHRealpe</name>
   <!-- FIXME change it to the project's website -->
