@@ -67,7 +67,7 @@
   </dependencies>
 
   <scm>
-    <developerConnection>scm:git:https://github.com/pacosoft2000/carlos3m_devops.git</developerConnection>
+    <developerConnection>scm:git:git@github.com:heluiRealpe/carlos3m_devops.git</developerConnection>
     <tag>myAppHRealpe-1.0.0</tag>
   </scm>
 
